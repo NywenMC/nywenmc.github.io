@@ -136,17 +136,6 @@
                     "url": "https://nywenmc.github.io/nywenclient/libs/club/minnced/discord/java-discord-rpc/2.0.1/java-discord-rpc-2.0.1.jar"
                 }
             },
-            "name": "fr.nywenmc:nywencrash:25.06.23"
-        },
-        {
-            "downloads": {
-                "artifact": {
-                    "path": "fr/nywenmc/nywencrash/25.06.23/nywencrash-25.06.23",
-                    "sha1": "eb8bb7b66fa0e2152b1b40b3856e82f7619439ee",
-                    "size": 23581,
-                    "url": "https://nywenmc.github.io/nywenclient/libs/fr/nywenmc/nywencrash/25.06.23/nywencrash-25.06.23.jar"
-                }
-            },
             "name": "club.minnced.discord:java-discord-rpc:2.0.1"
         },
         {
@@ -1553,7 +1542,7 @@
             "type": "log4j2-xml"
         }
     },
-    "mainClass": "net.minecraft.client.main.Main",
+    "mainClass": "mcp.client.Start",
     "minimumLauncherVersion": 21,
     "releaseTime": "2021-01-14T16:05:32+00:00",
     "time": "2021-01-14T16:05:32+00:00",
