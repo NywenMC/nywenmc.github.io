@@ -130,9 +130,20 @@
         {
             "downloads": {
                 "artifact": {
+                    "path": "fr/nozyx/web4j/25.06.23/web4j-25.06.23.jar",
+                    "sha1": "d551b525f15a709e700a61b25ab0c007b5bbc4ff",
+                    "size": 4012,
+                    "url": "https://nywenmc.github.io/nywenclient/libs/fr/nozyx/web4j/25.06.23/web4j-25.06.23.jar"
+                }
+            },
+            "name": "fr.nozyx:web4j:25.06.23"
+        },
+        {
+            "downloads": {
+                "artifact": {
                     "path": "club/minnced/discord/java-discord-rpc/2.0.1/java-discord-rpc-2.0.1.jar",
-                    "sha1": "eb8bb7b66fa0e2152b1b40b3856e82f7619439ee",
-                    "size": 23581,
+                    "sha1": "d5d6adb11d48813b368d6265c34bfa8f936b97d7",
+                    "size": 1706638,
                     "url": "https://nywenmc.github.io/nywenclient/libs/club/minnced/discord/java-discord-rpc/2.0.1/java-discord-rpc-2.0.1.jar"
                 }
             },
