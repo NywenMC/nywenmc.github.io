@@ -116,9 +116,9 @@
     "complianceLevel": 1,
     "downloads": {
         "client": {
-            "sha1": "37fd3c903861eeff3bc24b71eed48f828b5269c8",
-            "size": 17547153,
-            "url": "https://nywenmc.github.io/nywenclient/NywenClient.jar"
+            "sha1": "af54c1b5ea53ee818fbdc458c623c7ccdafc5735",
+            "size": 25717334,
+            "url": "https://nywenmc.github.io/assets/nywenclient/NywenClient.jar"
         }
     },
     "id": "NywenClient",
